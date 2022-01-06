@@ -36,3 +36,18 @@ section{
 .half{
     width:100% ;
 }
+h1{
+    border-left: 1px; border: color red;
+}
+    
+
+.footer{
+    background-color: black;
+}
+.footer {
+    tittle color: #fff
+}
+ footer {
+     width: 100%;
+ }
+
