@@ -7,3 +7,20 @@ h2{
     color: rgb(146, 7, 7);
 }
 
+.parent{
+    display flex: ;
+    width: 70%
+    ;
+}
+{
+ 
+}
+
+<style>
+.button{
+    color: crimson;
+}
+.photo img{
+    width: 200px;
+    
+}
