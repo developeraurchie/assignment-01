@@ -9,13 +9,19 @@ h2{
 
 .parent{
     display flex: ;
-    width: 70%
+    width:50%
+    
     ;
+
 }
 {
  
 }
+.button{
+    color:red ;
+}
 
+}
 <style>
 .button{
     color: crimson;
@@ -23,4 +29,10 @@ h2{
 .photo img{
     width: 200px;
     
+}
+section{
+    display flex: ;
+}
+.half{
+    width:100% ;
 }
